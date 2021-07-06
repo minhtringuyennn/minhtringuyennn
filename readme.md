@@ -17,4 +17,4 @@
 [Facebook]: https://Facebook.com/minhtringuyennn
 [Instagram]: https://Instagram.com/minhtringuyennn
 [Linkedin]: https://Linkedin.com/in/minhtringuyennn
-[E-Mail]: E-Mailto:contact@minhtringuyennn.com
+[E-Mail]: mailto:contact@minhtringuyennn.com
