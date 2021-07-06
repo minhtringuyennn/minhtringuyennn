@@ -1,20 +1,20 @@
-[![bg][banner]][website]
+[![bg][Banner]][Website]
 
-### 👋 Hi, I’m Minh Tri Nguyen. I am currently a first-year undergraduate student at Vietnam National University - Ho Chi Minh City University of Science.
+### Hi 👋, I’m Minh Tri Nguyen. I am currently a first-year undergraduate student at Vietnam National University - Ho Chi Minh City University of Science.
 
 ## You can know me more at:
-🟥 [website][website] **|**
-🟧 [facebook][facebook] **|**
-🟨 [instagram][instagram] **|**
-🟩 [linkedin][linkedin] **|**
-🟦 [mail][mail] **|**
+🟥 [Website][Website] **|**
+🟧 [Facebook][Facebook] **|**
+🟨 [Instagram][Instagram] **|**
+🟩 [Linkedin][Linkedin] **|**
+🟦 [E-Mail][E-Mail] **|**
 🟪 [CV][CV]
 
-[banner]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/banner.png
+[Banner]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/banner.png
 [CV]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/minhtringuyennn-cv.pdf
 
-[website]: https://minhtringuyennn.com
-[facebook]: https://facebook.com/minhtringuyennn
-[instagram]: https://instagram.com/minhtringuyennn
-[linkedin]: https://linkedin.com/in/minhtringuyennn
-[mail]: mailto:contact@minhtringuyennn.com
+[Website]: https://minhtringuyennn.com
+[Facebook]: https://Facebook.com/minhtringuyennn
+[Instagram]: https://Instagram.com/minhtringuyennn
+[Linkedin]: https://Linkedin.com/in/minhtringuyennn
+[E-Mail]: E-Mailto:contact@minhtringuyennn.com
