@@ -10,7 +10,7 @@
 🟦 [E-Mail][E-Mail] **|**
 🟪 [CV][CV]
 
-[Banner]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/banner.png
+[Banner]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/mtn-banner.png
 [CV]: https://raw.githubusercontent.com/minhtringuyennn/minhtringuyennn/master/minhtringuyennn-cv.pdf
 
 [Website]: https://minhtringuyennn.com
