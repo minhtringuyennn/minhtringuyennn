@@ -1,5 +1,7 @@
 [![bg][Banner]][Website]
 
+<p  align="center"> <img  src="https://komarev.com/ghpvc/?username=minhtringuyennn&style=flat  alt="minhtringuyennn" /> </p>
+  
 ### Hi 👋, I’m Minh Tri Nguyen. A freelancer. Passionate in coding, design, and photography.
 
 I am currently a sophomore student at Vietnam National University - Ho Chi Minh City University of Science. Major in Information Technology.
